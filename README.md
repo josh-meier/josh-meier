@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Meier</h1>
 <h3 align="center">A recently graduated frontend software engineer with 2 years of React and React Native experience</h3>
 
-- 🔭 I’m currently working on **Shipping Hazards (online battleship)** <a href="https://shippinghazards.com" target="blank"> shippinghazards.com </a>
+- 🔭 I’m currently working on **Shipping Hazards (online battleship)** <a href="https://shippinghazards.com" target="_blank"> shippinghazards.com </a>
 
 - 🌱 I’m currently learning **Node.js and RAG/LLM integrations**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   LinkedIn:
-<a href="https://linkedin.com/in/josh-meier-00851b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josh-meier-00851b251/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/josh-meier-00851b251/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josh-meier-00851b251/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
